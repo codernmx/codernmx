@@ -1,14 +1,14 @@
-## 我是CoderNmx 🐟
+## 我是CoderNmx ✨
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
 
-- 🐧 👬
-- 👨‍💻 经历：<a href="" target="_blank">关于我，22 前端程序员</a>
-- 🏡 作品：<a href="" target="_blank">求星星</a> | <a href="" target="_blank">求星星</a> | <a href="" target="_blank">求星星 ✨</a>
+<!--- 🐧 👬-->
+- 👨‍💻 经历：<a href="" target="_blank">现前端开发程序员</a>🐧
+- 🏡 作品：<a href="" target="_blank">分佣网站</a> | <a href="" target="_blank">分佣网站</a> | <a href="" target="_blank">求星星 ✨</a>
 - 🌱 干货：<a href="" target="_blank">公众号『 柠檬心工作室 』</a>
-- 😺 视频：<a href="" target="_blank">B站 @彩虹程序员</a>
-- 💬 微信：<a href="" target="_blank">Until_Day_Break</a>
+- 😺 视频：<a href="" target="_blank">哔哩哔哩 @彩虹程序员</a>
+- 💬 联系：<a href="" target="_blank">微信 @Until_Day_Break</a>👬
 - 🤔 问题：<a href="" target="_blank">知乎 @Rainbowcoder</a>
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
