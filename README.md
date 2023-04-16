@@ -4,12 +4,10 @@
 </a>
 
 <!--- 🐧 👬-->
-- 👨‍💻 经历：<a href="" target="_blank">现前端开发程序员</a>🐧
-- 🏡 作品：<a href="https://github.com/codernmx/pycode" target="_blank">Python部分案例 ✨</a><a href="https://github.com/codernmx/pycode" target="_blank">求星星 ✨</a><a href="" target="_blank">求星星 ✨</a>
-- 🌱 程序：<a href="" target="_blank">微信搜小程序『 水印相机打卡 』</a>
-- 😺 视频：<a href="" target="_blank">哔哩 @CoderNmx</a>
+- 👨‍💻 状态：<a href="" target="_blank">在职前端开发</a>🐧
+- 🏡 作品：<a href="https://github.com/codernmx/pycode" target="_blank">Python合集 ✨</a><a href="https://github.com/codernmx/pycode" target="_blank">求星星 ✨</a><a href="" target="_blank">求星星 ✨</a>
+- 🌱 程序：<a href="" target="_blank">微信搜小程序『 水印相机打卡 』『 时间地点 | 水印相机打卡 』『 考勤相机 | 水印相机打卡 』</a>
 - 💬 联系：<a href="" target="_blank">微信 @Maisy_915</a>
-- 🤔 问题：<a href="" target="_blank">知乎 @Rainbowcoder</a>
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
